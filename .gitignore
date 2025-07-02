@@ -1,0 +1,13 @@
+# React frontend
+/frontend/node_modules
+/frontend/build
+/frontend/.env
+
+# Java backend
+/backend/out
+/backend/target
+*.class
+
+# OS & misc
+.DS_Store
+*.log
